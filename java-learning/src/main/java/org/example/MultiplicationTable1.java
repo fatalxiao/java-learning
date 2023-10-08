@@ -1,6 +1,6 @@
 package org.example;
 
-public class MultiplicationTable {
+public class MultiplicationTable1 {
 
     public static void main(String[] args) {
 
