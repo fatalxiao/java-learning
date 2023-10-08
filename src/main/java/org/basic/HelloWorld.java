@@ -1,4 +1,4 @@
-package org.example;
+package org.basic;
 
 /**
  * 例一
